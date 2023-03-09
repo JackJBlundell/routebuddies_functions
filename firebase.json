@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "routebuddies-app",
+  "private_key_id": "d56e99a07ca5d1614281512be1b82a4ba5d2198e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDkdFsWzPlxr/dl\nH5kamVUCyO4hqMTaPXrLRZVuNEnP+B7iyK2O5VjRjmcRuZQVJO5CHTcAFixkyQM7\nZMjp+mX3pIpnPV8gJUvQAJUsDi1WiFmN+9NIBmu2yazAUL39mso/if/BVKOoIn3d\nvRM5M/R8wIzy8LV+XyNYyBwqcvtQM5lkJg1HWuwuSWai56ufaPsH30dnPFtYDHR6\n6sCv4dINbLrSMtiDOyuPxCk33Yf7ntof725TAgeNHT+zBqX/hTZeIjlLwQpK210W\nH+t1seU5tKqRlvycap8PQj5U3/m/Tvq4WCDgYToXLJ90vbqj6IhV1ntcurGkeAq4\nCPQrGjn5AgMBAAECggEAXuiR8RJ9rMPgYPP0HK9HuGz2NSiSg2IYMft5/XsekRYw\n6qFZLSzNrd1dp2j0AqbBjtjpQRF1Jve1bobLyxyaIPwL/aDq9IVaDhM35cIMBs+F\neO1+FIWKWTlGmezRSVr1m9j+VfiONusBZE3I/zI851jtFX53wATRP/B+dwomquXD\n3jw7Ng60rSbgFqbBBzXzKuawDhMifzbJtCD1OWyvrTu/VFmuh/OtdQ8p974wpY+U\nN3PoSWzcPdW/cEcgdyysKNtKmoXGHUvcQ6ra9C1BdT8DJAwc43aEduKJihrnzwXM\nzE3HcHieVJoEdcVm5+iZuvcmzhxqY+ClREXA27JSgwKBgQD3Wzt2UaMZaDbvlLKE\nGEeVYJc49s8Khn3nUL69QiGNjkQSaXmBwMvHERXP6ZPCHX8PI458si9Mn15RAzbR\nJo44y8l9GR1VjXCrVX8RY3MNGj23zXW++lpkEzBsVjam4M1G5iJYWL1cJ2aL0opf\nZU4E/z3u5atatLfmx8sVrMYa1wKBgQDscAimexcPY5HpD9OMilUOXtco5UfiHR5B\nxBrqiB8Z7VupZAb7Zdm1aoe2mqGSHjqhSipOynFBq76NvuSb4Qa3yjtA76WmrEas\nIlbM7RbQ6nGSMjVc6Pz14F1k+ZWj4fc9yg13pXNVItTQj+ZVVQO9sLFYc70dIs5t\nIQuzRl4HrwKBgB3tKseI3vu+8Q6RZfu3WEnJUuJwceIrHWZ0DW+mZZrTwIadvjal\nlcHy3jm2X8sXeHzjZ2TMxg42JdoVUneBe6mBdlItTLBCGYSRJnt7FbtbFmZ7dChz\n76W18KDa2WfdQNi4FSWtLtPMbIq0IUujXQobu2mA3fdub+V6/KYVri4nAoGBAOuT\nTOsjZXyNxsmiXTOAePLSiCpVGGQwgv8f93mKmwJoPpXt9g7yEhLxy7qjIyzFNcGS\ndcj/aAz4o+nzMzAk616f/p3aqQACUoAbzsRrzfnmPbZelFC4S6JoJGYBT5l0AbXs\n5bI6hUlkZQpQ9jw7cnjD3k+1Mc4f6fFNpazABdw9AoGBAIcq2/i4TXF9/l6hDCzx\nlOCdOFfZvJ3hssYR8mcgSYVvl1g/7sKD+U+lLiLWHTdhxlqs25VNfNs0019eOMug\n3/el6m/IXe064fhfzA05Uo700x2BjO0hu50vMU3J+rlj6YIo1WW48wOX/n5MFXJU\nUegVpB1aNgO+c0mHLJ4fPfQP\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nxc6h@routebuddies-app.iam.gserviceaccount.com",
+  "client_id": "117936819819309309712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nxc6h%40routebuddies-app.iam.gserviceaccount.com",
+  "hosting": {
+    "public": "."
+  }
+}
