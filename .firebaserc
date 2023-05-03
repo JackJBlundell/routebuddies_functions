@@ -1,6 +1,7 @@
 {
   "projects": {
-    "prod": "routebuddies-app"
+    "prod": "routebuddies-app",
+    "default": "routebuddies-app"
   },
   "targets": {},
   "etags": {}
